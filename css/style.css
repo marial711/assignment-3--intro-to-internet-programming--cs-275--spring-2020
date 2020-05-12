@@ -5,8 +5,11 @@ table {
 }
 
 td {
+  text-align: center;
+  height: 30px;
+  width: 30px;
   border: 1px solid red;
-  padding: 10px;
+  padding: 50px;
 }
 
 .rotate-data {
