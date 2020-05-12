@@ -20,7 +20,7 @@ _You may **only** work within the confines of the included scaffold._
 * Do not alter the scaffold of this project.
 * Do not add images.
 
-### CS
+### CSS
 * Ensure the table shares borders.
 * Set a redish border around the table/cells.
 * Place the table in the middle of the page.
