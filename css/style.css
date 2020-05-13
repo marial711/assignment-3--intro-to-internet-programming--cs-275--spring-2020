@@ -1,25 +1,29 @@
 table {
   display: flex;
+  margin: auto;
   justify-content: center;
   border-collapse: collapse;
 }
 
 td {
   text-align: center;
+  font-size: 20px;
   height: 30px;
   width: 30px;
-  border: 1px solid red;
-  padding: 50px;
+  border: 1px solid #ec5954;
+  padding: 10px;
 }
 
 .rotate-data {
   transform: rotate(180deg);
+  color: #8a36c4;
   animation: turn-180 .5s linear;
 }
 
 .reverse-rotate {
   transform: rotate(360deg);
   animation: turn-again .5s linear;
+  color: black;
 }
 
 @keyframes turn-180 {
